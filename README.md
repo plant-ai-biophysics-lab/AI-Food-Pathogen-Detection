@@ -1,1 +1,1 @@
-# -AI-Food-Pathogen-Detection
+# AI-Food-Pathogen-Detection
