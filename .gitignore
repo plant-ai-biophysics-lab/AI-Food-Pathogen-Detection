@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Model training
+best_model*
+logs.txt
+
+# Model inference results
+instances.png
+instances*
+tables.txt
+*.csv
+
+# Misc
+.vscode/
+__MACOSX/
+*.code-workspace
