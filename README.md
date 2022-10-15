@@ -78,12 +78,13 @@ ai-food-pathogen-data
 
 ## Training
 
-Run `train.py`
+- Run `train.py`
 
 ## Evaluation
 
-Run `eval_mono.py` to evaluate the model prediction on *E. coli* monoculture data
-Run `eval.py` to evaluate the model prediction on real-world water samples
+- Run `eval_mono.py` to evaluate the model prediction on *E. coli* monoculture data
+
+- Run `eval.py` to evaluate the model prediction on real-world water samples
 
 ## Acknowledgements
 
