@@ -75,16 +75,15 @@ ai-food-pathogen-data
 └── irwEC_annotations.xml
 
 ```
-`dataset.py`
 
 ## Training
 
-`train.py`
+Run `train.py`
 
 ## Evaluation
 
-`eval_mono.py`
-`eval.py`
+Run `eval_mono.py` to evaluate the model prediction on *E. coli* monoculture data
+Run `eval.py` to evaluate the model prediction on real-world water samples
 
 ## Acknowledgements
 
