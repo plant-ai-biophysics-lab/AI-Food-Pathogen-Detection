@@ -94,4 +94,4 @@ https://github.com/ShaoqingRen/faster_rcnn
 
 ## Acknowledgements
 
-This project was supported by the USDA-NIFA (Grant 2021-67021-34256) and the [National AI Institute for Food Systems (AIFS)](https://aifs.ucdavis.edu).
+This project was supported by the [USDA-NIFA Grant 2021-67021-34256](https://portal.nifa.usda.gov/web/crisprojectpages/1025694-fact-ai-data-efficient-ai-platform-for-label-and-label-free-detection-of-food-bacterial-pathogens.html) and the [National AI Institute for Food Systems (AIFS)](https://aifs.ucdavis.edu).
