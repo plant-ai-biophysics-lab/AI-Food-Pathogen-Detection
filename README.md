@@ -92,6 +92,6 @@ The Faster R-CNN implementation is from *Shaoqing Ren*
 
 https://github.com/ShaoqingRen/faster_rcnn
 
-## Funding
+## Acknowledgements
 
-This project was partly funded by the [National AI Institute for Food Systems (AIFS)](https://aifs.ucdavis.edu).
+This project was supported by the USDA-NIFA (Grant 2021-67021-34256) and the [National AI Institute for Food Systems (AIFS)](https://aifs.ucdavis.edu).
